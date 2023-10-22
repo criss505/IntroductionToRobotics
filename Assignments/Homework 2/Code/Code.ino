@@ -1,6 +1,6 @@
-const int greenPin = A0;
-const int redPin = A1;
-const int bluePin = A2;
+const int greenInput = A0;
+const int redInput = A1;
+const int blueInput = A2;
 const int ledPinGreen = 6;
 const int ledPinRed = 5;
 const int ledPinBlue = 3;
@@ -18,9 +18,9 @@ void setup() {
 
 void loop() {
   // read pins input
-  greenValue = analogRead(greenPin);
-  redValue = analogRead(redPin);
-  blueValue = analogRead(bluePin);
+  greenValue = analogRead(greenInput);
+  redValue = analogRead(redInput);
+  blueValue = analogRead(blueInput);
 
   // map values
   greenValue = map(greenValue, 0, analogHigh, 0, digitalHigh);
