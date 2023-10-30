@@ -8,6 +8,6 @@ For this assignment I had to control an RGB LED using potentiometers. For each c
 -> <a href="https://youtu.be/DwxRwo3IJ7w">a short video presentation</a>
 
 <h2>Homework #3</h2>
-This time, the task was to simulate an elevator, each level being represented by a LED. As an extra feature, there was a separate LED and a buzzer that signaled when the "elevator" was moving.<br><br>
+This time, the task was to simulate a 3-floor elevator system, each level being represented by a LED. As an extra feature, there was a separate LED and a buzzer that signaled when the "elevator" was moving.<br><br>
 <img src="Assignments/Homework%203/Circuit_picture.jpeg" width=400>
 -> <a href="https://youtu.be/ZlxJcPpUzy4">a short video presentation</a>
