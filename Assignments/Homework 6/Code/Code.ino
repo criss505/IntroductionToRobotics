@@ -449,7 +449,7 @@ void displayLoggedData() {
 
 // led functions
 void setLed() {
-  Serial.println("Enter RGB values (0 to 1023) for the LED:");
+  Serial.println("Enter RGB values (0 to 255) for the LED:");
 
   Serial.println("Red: ");
   while (!Serial.available()) {}
