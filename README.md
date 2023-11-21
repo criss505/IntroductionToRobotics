@@ -66,3 +66,21 @@ The starting value should be ”000.0” and the buttons should have the followi
 -> <a href="https://youtu.be/Ijw1ldbHLJo">a short video presentation</a>
 
 
+<h2>Homework #6</h2>
+Set up a pseudo-smart environment monitor and logger using 2 types of sensors: ultrasonic sensor and light-dependent resistor.<br><br>
+
+<details>
+<summary>Task details</summary> 
+This system uses various sensors to gather environmental data and log this data into EEPROM.<br>
+Provide both visual feedback via an RGB LED and user interaction through a Serial Menu.<br>
+Focus on integrating sensor readings, memory management, Serial Communication and the general building of a menu.<br>
+- Sensor Settings submenu should prompt the user to set values for sapling interval and alert thresholds<br>
+- Reset Logger submenu confirms before reseting saved data<br>
+- System Status submenu checks current status and health (sensor readings, settings and logged data)<br>
+- LED submenu can toggle ON/OFF the automatic mode of the RGB LED, or set it manually from the console
+<br>
+</details>
+
+<img src="Assignments/Homework%206/Circuit_Picture.jpeg" width=400>
+-> <a href="https://youtu.be/e2Kyyh048dA">a short video presentation</a>
+
