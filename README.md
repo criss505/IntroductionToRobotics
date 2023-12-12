@@ -84,3 +84,16 @@ Focus on integrating sensor readings, memory management, Serial Communication an
 <img src="Assignments/Homework%206/Circuit_Picture.jpeg" width=400>
 -> <a href="https://youtu.be/e2Kyyh048dA">a short video presentation</a>
 
+
+<h2>Homework #8</h2>
+Matrix Checkpoint; Implemented the basic features of the snake game<br><br><details>
+<summary>Task details</summary> 
+Finished the main functionalities of the classic snake game.<br>
+You can scroll through the menu (start game, adjust settings, game details).<br>
+The game itself is working, with the basic features: the player can control the snake and eating fruits/losing lives are also implemented mechanisms.<br><br>
+</details>
+
+<img src="Assignments/Homework%208/Circuit_Picture.jpeg" width=400>
+-> <a href="https://youtu.be/DsqZOCdHGPg?si=YOgD_jb-z0kW2eUU"> short video presentation</a>
+
+
